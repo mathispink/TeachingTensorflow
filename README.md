@@ -1,2 +1,2 @@
 # TeachingTensorflow
-Some of the teaching materials will be available through this repository.
+Some of my teaching materials will be available through this repository.
